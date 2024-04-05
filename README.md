@@ -1,11 +1,12 @@
 # Quiz-4
 Gogolook Quiz 4 - Web Automation
 
-OS - Windows 10
-Python - 3.12.2
+- Env
+OS: Windows 10
+Python: 3.12.2
 
-#Install
+- Install
 pip install -r requirements.txt
 
-#run
+- run
 python stock_scrapper.py
